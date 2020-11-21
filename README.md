@@ -1,2 +1,2 @@
 
-This repository contains all the machine learning project I have completed during the PGD course.
+This repository contains all the project I have completed during the PGD course.
