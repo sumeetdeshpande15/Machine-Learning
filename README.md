@@ -1,4 +1,4 @@
-# PostGraduate Diploma in Machine Learning and AI. #
+# Post Graduate Diploma in Machine Learning and AI. #
 
-International Institute of Technology - Bangalore in assocaition with UpGrad.
+* International Institute of Technology - Bangalore in assocaition with UpGrad.*
 
