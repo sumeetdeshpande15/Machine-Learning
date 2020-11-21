@@ -1,2 +1,4 @@
+PostGraduate Diploma in Machine Learning and AI.
 
-This repository contains all the project I have completed during the PGD course.
+International Institute of Technology - Bangalore in assocaition with UpGrad.
+
