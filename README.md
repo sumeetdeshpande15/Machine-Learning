@@ -1,4 +1,4 @@
-# Post Graduate Diploma in Machine Learning and AI. #
+# Machine Learning Projects. #
 
-* International Institute of Information Technology - Bangalore in assocaition with UpGrad.
+* This repo contains practice ML Projects.
 
